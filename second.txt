@@ -2,3 +2,5 @@ this is text
 this is updated
 again file updated
 demo for merge commit
+
+working on it using the rebase terminal
