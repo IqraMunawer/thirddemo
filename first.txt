@@ -3,3 +3,5 @@ this is my new file
 updated
 
 updated for ui
+
+updated for terminal
